@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my PhD in mathematics at Paderborn University
+- 🤔 👯 I'm looking to collaborate on a project concerned with numerical hyperbolic geometry, zeta functions and Ruelle resonances. Ask me about it!
